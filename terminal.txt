@@ -1,0 +1,28 @@
+1. ls -l: show date and time of created/updated file in the given folder
+2. man ls: Documentation of the ls 
+3. ls -a :hideen item (folder/root directory)
+4. ls -h : sizes human readble form
+5. ls-R: recurssively list subfolders
+6. ls -r: reverse sort(use with -t)
+7. ls -t: sort on the basis of time.
+7. find ~/Desktop/ -iname \*.cpp -type f | wc -l: count .cpp the numbers of file
+iEasy
+cd 
+cp 
+mv
+rm
+rmdir
+mkdir
+touch
+
+difficult
+ls 
+top
+
+
+high difficult
+
+find 
+grep
+subfoldersawk
+ps

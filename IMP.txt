@@ -1,0 +1,19 @@
+parts of operating system
+
+1. Kernal:software program(written in either c or rust)
+     -heart of the os(core of the os)
+     -process schedulling , threading and concurrency, devide detriver and its usage,
+     security, file Management
+
+2. Applications and utilities
+    -GNU utilities and other program(pre-installed and abvailable for install)
+
+3. deskstop
+    -GUI visible to the user(which perform operation as demand)
+    -e.g: Gnome(current),utility, cosmic, KDE plasma, etc
+4. shell
+    -bash, zsh, fish 
+
+5. package manager:
+   -apt (aptitude), rpm, dnf, pacman, winget(window)
+
