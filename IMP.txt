@@ -17,3 +17,5 @@ parts of operating system
 5. package manager:
    -apt (aptitude), rpm, dnf, pacman, winget(window)
 
+
+new file
