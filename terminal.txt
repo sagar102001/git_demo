@@ -26,3 +26,13 @@ find
 grep
 subfoldersawk
 ps
+
+
+
+
+head -n -10 demo.cpp  //printing 10 first line
+
+tail -n -10 demo.cpp
+
+
+head -n 3 ../Day4/Bike.cpp  IMP.txt  //print first three line of Bike.cpp and IMP.txt

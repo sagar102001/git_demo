@@ -1,1 +1,8 @@
+when we do git add . files go to stage area
 remove file from staging
+git rm --cached IMP.txt
+
+add file into stage 
+git add IMP.txt
+
+
